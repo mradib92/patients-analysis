@@ -1,4 +1,5 @@
 import sys
+"""Adding documentation locally"""
 count = 0 
 for line in sys.stdin:
     count += 1 
